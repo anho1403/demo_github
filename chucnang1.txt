@@ -1,0 +1,4 @@
+1 ne
+2 ne
+add them line 1
+add them line 2 ne
